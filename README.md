@@ -48,6 +48,9 @@ pip install geopandas matplotlib folium mapclassify
 
 The results include various plots and interactive maps showing different regions within Karnataka, allowing for detailed geographical analysis.
 
+- Interactive Map:
+  ![Interactive Map](interactivemap.png)
+
 ## Interactive Maps
 
 One of the best ways to create interactive maps is by using libraries like `folium` combined with GeoPandas. This project leverages these tools to provide a rich, interactive experience for exploring geographical data.
